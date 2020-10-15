@@ -1,0 +1,1 @@
+aqui se encuentra la estructura de la base de datos utilizada
