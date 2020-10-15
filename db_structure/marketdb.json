@@ -1,0 +1,24 @@
+{
+    "_id": "5f84d01a7daa1ab32b7679c6",
+    "products": [
+        {
+            "_id": "5f835110ae526e27e3e6f4b1",
+            "name": "Note 10",
+            "price": "399.99",
+            "quantity": "2",
+            "stock": "2",
+            "trademark": "Samsung"
+        },
+        {
+            "_id": "5f8351c5ae526e27e3e6f4b2",
+            "name": "Galaxy S10",
+            "price": "599.99",
+            "quantity": "3",
+            "stock": "5",
+            "trademark": "Samsung"
+        }
+    ],
+    "client": "Maria Juana",
+    "total": 2599.95,
+    "date": "2020-10-12T21:52:26.603+00:00"
+}
